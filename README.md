@@ -25,8 +25,8 @@ A simple tool that will tell you whether a year is a leap year, according to the
 
  ` INPUT        |      OUTPUT
  ==============================
- 1600         ->      true
- 1900         ->      false
+ (done)1600         ->      true
+ (done)1900         ->      false
  2012         ->      true
  2011         ->      false
  `
